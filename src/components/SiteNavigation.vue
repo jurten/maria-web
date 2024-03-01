@@ -7,7 +7,7 @@
           <Bars3Icon class="h-6 w-6" aria-hidden="true" />
         </button>
       </div>
-      <PopoverGroup class="backdrop-blur-sm rounded-full px-4 py-2 shadow-[0px_0px_20px_10px_#00000024] hidden lg:flex lg:gap-x-12">
+      <PopoverGroup class="bg-white rounded-full px-4 py-2 shadow-[0px_0px_20px_10px_#00000024] hidden lg:flex lg:gap-x-12">
         <a href="#" class="-m-1.5 p-1.5">
           <span class="sr-only">Maria Laumann</span>
           <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
